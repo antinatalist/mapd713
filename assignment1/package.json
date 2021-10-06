@@ -1,0 +1,12 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "restify": "4.1.1",
+    "save": "2.3.0"
+  },
+  "author": "arthur",
+  "private": "true",
+  "main": "index.js"
+}
